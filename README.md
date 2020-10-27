@@ -10,31 +10,27 @@ Python For Data Science Course Resources
 * Python Objects and Functions
 
 
-
 We assume that the participants have no background in python and start with very basic topics. After this course, you can learn Machine Learning, Deep Learning, and Other Data Science sources. You must download the resources to learn this course
 
 
-What you’ll learn
-Python Basic Commands
-Data types
-Important Packages
-Data Manipulations
-Basic Statistics and Reporting
-Data Visualizations in Python
-Data Cleaning
-Functions
+## What you’ll learn
+* Python Basic Commands
+* Data types
+* Important Packages
+* Data Manipulations
+* Basic Statistics and Reporting
+* Data Visualizations in Python
+* Data Cleaning
+* Functions
 
+## Are there any course requirements or prerequisites?
+* Google Colab need to be pre-installed.
+* Basic Knowledge on Data science
 
-
-Are there any course requirements or prerequisites?
-Google Colab need to be pre-installed.
-Basic Knowledge on Data science
-
-
-Who this course is for:
-Students
-Data Science Enthusiasts
-Reporting Analysts
-Data Analysts
-Software Engineers
-Anyone who wants to learn Python
+## Who this course is for:
+* Students
+* Data Science Enthusiasts
+* Reporting Analysts
+* Data Analysts
+* Software Engineers
+* Anyone who wants to learn Python
