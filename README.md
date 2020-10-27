@@ -1,13 +1,13 @@
 # Python_For_Data_Science
 Python For Data Science Course Resources 
 
-Course Covers six topics.
-Basic Commands of python and important packages
-Data Manipulations with python
-Basic Statistics
-Data Visualizations with python packages
-Data Validation and Cleaning in Python
-Python Objects and Functions
+## Course Covers six topics.
+* Basic Commands of python and important packages
+* Data Manipulations with python
+* Basic Statistics
+* Data Visualizations with python packages
+* Data Validation and Cleaning in Python
+* Python Objects and Functions
 
 
 
