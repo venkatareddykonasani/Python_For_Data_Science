@@ -2,7 +2,7 @@
 Python For Data Science Course Resources 
 
 # Course Introduction 
-[Course Introduction Video](https://youtu.be/uRCKALc5Ii8)
+[Course Introduction Video](https://youtu.be/NF1gIjlJprA)
 
 ## Course Covers six topics.
 * Basic Commands of python and important packages
